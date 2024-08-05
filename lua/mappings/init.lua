@@ -1,0 +1,8 @@
+require "nvchad.mappings"
+require "mappings.terminal"
+require "mappings.neotest"
+require "mappings.telescope"
+require "mappings.basic"
+require "mappings.git"
+require "mappings.markdown"
+require "mappings.tmux-navigate"
